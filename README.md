@@ -9,7 +9,7 @@ An elite, self-hosted, cyber security training system designed to build a self-r
 
 - Develop uncompromising technical cybersecurity skills.
 - Master system design, defense, and offensive security strictly for ethical purposes.
-- Prepare a polished cybersecurity portfolio for job placement in international roles, emphasizing the Middle East.
+- Prepare a polished cybersecurity portfolio
 - Integrate market-ready enterprise tooling and certifications without compromising original self-hosted discipline.
 
 ---
